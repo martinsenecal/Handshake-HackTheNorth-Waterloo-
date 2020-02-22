@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "470668815361",
+    "firebase_url": "https://app1-b3f94.firebaseio.com",
+    "project_id": "app1-b3f94",
+    "storage_bucket": "app1-b3f94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470668815361:android:ee8201a1f2eabd33fca400",
+        "android_client_info": {
+          "package_name": "com.example.socialconnectapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470668815361-b4vobl6prp7paqhse32f9442dm0p8q19.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.socialconnectapp",
+            "certificate_hash": "c7e1b0e6d52dba4d4f30f4f846f554ddad016420"
+          }
+        },
+        {
+          "client_id": "470668815361-r6h0id761jpr9m21dpmd5eqkueo62cgi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT9i4I4edxWf5WngRD3jtEudRNeNum5JA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470668815361-r6h0id761jpr9m21dpmd5eqkueo62cgi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
